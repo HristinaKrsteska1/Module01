@@ -1,0 +1,14 @@
+C:\Users\Hristina\Desktop\projects\Polymorphism.Excercise\Module01\Module01\bin\Debug\Module01.exe.config
+C:\Users\Hristina\Desktop\projects\Polymorphism.Excercise\Module01\Module01\bin\Debug\Module01.exe
+C:\Users\Hristina\Desktop\projects\Polymorphism.Excercise\Module01\Module01\bin\Debug\Module01.pdb
+C:\Users\Hristina\Desktop\projects\Polymorphism.Excercise\Module01\Module01\obj\Debug\Module01.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Desktop\projects\Polymorphism.Excercise\Module01\Module01\obj\Debug\Module01.csproj.CoreCompileInputs.cache
+C:\Users\Hristina\Desktop\projects\Polymorphism.Excercise\Module01\Module01\obj\Debug\Module01.exe
+C:\Users\Hristina\Desktop\projects\Polymorphism.Excercise\Module01\Module01\obj\Debug\Module01.pdb
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module01\Module01\bin\Debug\Module01.exe.config
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module01\Module01\bin\Debug\Module01.exe
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module01\Module01\bin\Debug\Module01.pdb
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module01\Module01\obj\Debug\Module01.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module01\Module01\obj\Debug\Module01.csproj.CoreCompileInputs.cache
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module01\Module01\obj\Debug\Module01.exe
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module01\Module01\obj\Debug\Module01.pdb
